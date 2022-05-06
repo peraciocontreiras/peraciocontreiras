@@ -1,6 +1,6 @@
-### Hello! I am Perácio Contreiras 👋👨
+## Hello! I am Perácio Contreiras 👋👨
 
-## I am novice programmer with a great desire to learn more every day!
+### I am novice programmer with a great desire to learn more every day!
 
 [![Social](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/peraciocontreiras/)
 
